@@ -6,6 +6,6 @@ The Uncovered Crates was a game I was working on with a few people but after wor
 (by the way the monster in the game is called "Ycul" I'm planning on using him in another game in the future.)
 
 ​
-Released January 15th, 2021
+**Released January 15th, 2021**
 
 (This is a reupload to GitHub)
